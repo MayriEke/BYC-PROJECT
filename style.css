@@ -1,0 +1,42 @@
+.top {
+  text-align: center;
+  margin-top: 60px;
+}
+
+.aboutbyc {
+  margin-top: 200px;
+  color: #212121;
+}
+.aboutbyc h3 {
+  font-weight: 700%;
+}
+
+/* RECORDS STYLING */
+.records {
+  text-align: center;
+  margin-top: 60px;
+}
+.card {
+  margin-top: 70px;
+}
+.card-body p {
+  font-size: 10px;
+}
+
+.card-hover {
+  border: none #bd3a3a0a;
+  background-color: #FBFBFB;
+  cursor: pointer;
+  box-shadow: 2px 2px 2px 1px #FBFBFB;
+}
+
+.card-hover:hover {
+  background-color: #bd3a3a0a;
+  cursor: pointer;
+} 
+
+#record-years {
+  color: #d7000f;
+  font-weight: bold;
+  font-size: 26px;
+}
