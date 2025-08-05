@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Jost:ital,wght@0,100..900;1,100..900&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+/* Reset CSS for all landing page(index.html) fonts*/
+* {
+    margin: 0 !important;
+    padding: 0 !important; ;
+    box-sizing: border-box;
+    /* font-family:"Lato", sans-serif;  */
+}
+.font-seog{
+    font-family: "Noto-Sans", sans-serif !important;
+}
+.footer-font{
+    font-family: "Jost", sans-serif;
+}
+.nav-item {
+    font-family: "Jost", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 100%;
+}
+.navbar {
+      padding: 1rem;
+    }
+.navbar-nav {
+      gap: 1.5rem;
+    }
+.icon-links a {
+      color: #000;
+      font-size: 1.2rem;
+      margin-left: 1rem;
+    }
+.navbar-brand img {
+      height: 40px;
+    }
+#mobileMenu {
+      display: none !important;
+    }
+    /* section 1 starts here  */
+   .sec1{
+    margin-top: 156px;
+   }
+.all-btn{
+    font-family: "Jost", sans-serif;
+    font-weight: 700;
+    font-size: 18.56px;
+    line-height: 100%;
+    border: 2px solid #000;
+    width: 237px;
+    height: 56px;
+}
+.all-anchor{
+    font-family: "Jost", sans-serif;
+}
+

@@ -1,6 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Jost:ital,wght@0,100..900;1,100..900&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+
+
+
+
+    /* ABOUT US STYLING */
 .top {
   text-align: center;
   margin-top: 60px;
+}
+
+.card1{
+  display: flex;
 }
 
 .aboutbyc {
@@ -39,4 +51,21 @@
   color: #d7000f;
   font-weight: bold;
   font-size: 26px;
+}
+
+/* RECENTLY VIEWED STYLING */
+.view-nav{
+  display: flex;
+  justify-content: space-between;
+}
+
+.card-top{
+  margin-top: 15px;
+}
+
+
+
+.rated {
+  display: flex;
+  justify-content: space-between;
 }
